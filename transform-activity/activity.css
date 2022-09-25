@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main {
     @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
 
@@ -21,3 +22,28 @@ main {
       padding: 10%;
       
       }
+=======
+main {
+    @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+    body  {
+      font-family: 'Josefin Sans', sans-serif;
+      text-align: right;
+    }
+    main {
+      background-color: mediumaquamarine;
+      height: 90vh;
+      width: 100vh;
+      margin: auto;
+      display: flex;
+      align-items: left;
+      transform: rotate(12deg);
+          }
+    
+    main > div {
+      width: 40%;
+      margin: auto;
+      padding: 10%;
+      
+      }
+>>>>>>> 049c99e4ab18cf79a76f20189430cb8bd29de4cf
