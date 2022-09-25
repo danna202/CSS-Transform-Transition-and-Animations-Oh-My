@@ -2,6 +2,7 @@
 
 body  {
   font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
 }
 main {
   background-color: mediumaquamarine;
@@ -9,8 +10,9 @@ main {
   width: 100vh;
   margin: auto;
   display: flex;
-  align-items: center;
-}
+  align-items: left;
+  transform: rotate(-12deg);
+      }
 
 main > div {
   width: 40%;
